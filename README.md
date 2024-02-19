@@ -62,7 +62,8 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)  
 ```
 <br>
-
+<br>
+<br>
 ## Output:
 
 ### df.head()
