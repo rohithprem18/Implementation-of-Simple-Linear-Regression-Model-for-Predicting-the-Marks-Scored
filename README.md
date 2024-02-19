@@ -62,6 +62,8 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)  
 ```
 
+
+
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
