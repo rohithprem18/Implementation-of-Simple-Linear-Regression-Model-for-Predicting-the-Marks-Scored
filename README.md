@@ -61,11 +61,9 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)  
 ```
-
-
+<br>
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
 ### df.head()
 ![df_head()](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/0b7d642e-7301-4319-aafd-a9a4f648b04b)
